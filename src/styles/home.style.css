@@ -1,0 +1,41 @@
+.box {
+    background-image: url('https://static5.depositphotos.com/1026931/515/v/380/depositphotos_5159389-stock-illustration-gallery-interior-with-empty-wall.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 50px;
+}
+
+.text-box {
+    font-family: 'Comic Sans MS';
+    margin-top: 200px;
+    text-align: center;
+}
+
+.text-box h1 {
+    font-family: 'Comic Sans MS';
+    font-size: 70px;
+    font-weight: bold;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+a img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+}
+
+a button {
+    background-color: rgb(214, 77, 136);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+}
