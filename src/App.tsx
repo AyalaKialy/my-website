@@ -7,12 +7,12 @@ import './styles/app.style.css';
 
 export default function App() {
   return (
-    <body>
+    <div>
       <MyAppBar />
       <Home />
       <About />
       <Projects />
       <Footer />
-    </body>
+    </div>
   );
 }
