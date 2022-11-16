@@ -10,7 +10,7 @@ import '../styles/footer.style.css'
 
 export default function Footer() {
     return (
-        <AppBar sx={{ bgcolor: 'black' }} position='static'>
+        <AppBar id='contact' sx={{ bgcolor: 'black' }} position='static'>
             <Container maxWidth='xl'>
                 <Box justifyContent='center' sx={{ padding: 1, flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
                     <div className='item'>
